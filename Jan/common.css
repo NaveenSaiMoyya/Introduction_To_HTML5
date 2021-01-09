@@ -1,0 +1,17 @@
+body{
+    font-weight: bolder;
+    font-size: xx-large;
+}
+pre{
+    color: darkgreen;
+    background-color: whitesmoke;
+}
+
+a {
+    color: red;
+    text-decoration: none;
+    text-transform: uppercase;
+    border: 2px dotted blue;
+    border-radius: 10px;
+  }
+  
